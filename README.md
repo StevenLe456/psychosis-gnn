@@ -3,3 +3,11 @@
 This Github repository contains the pipeline code for my research project submitted to the Undergraduate Research Scholar Award (URSA) at the University of Texas at Dallas (UTD).
 
 This research project was done by Steven Le under the guidance of Professor Karen J. Mazidi.
+
+## Research Poster
+
+Image panding... :)
+
+## Research Brief
+
+Still writing it... :)
