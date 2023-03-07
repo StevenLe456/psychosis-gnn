@@ -6,7 +6,7 @@ This research project was done by Steven Le under the guidance of Professor Kare
 
 ## Research Poster
 
-Image panding... :)
+Image pending... :)
 
 ## Research Brief
 
